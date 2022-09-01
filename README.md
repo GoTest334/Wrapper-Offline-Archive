@@ -1,3 +1,5 @@
+Archive of Wrapper Offline v1.2.3
+
 HOW TO RUN THIS SOFTWARE
 
 1. Uninstall any versions of node JS and flash you currently have
